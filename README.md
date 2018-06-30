@@ -7,3 +7,5 @@ I thought of parsing the file names manully but it seems to be a big tasks.
 I came across the API while I was looking up something on IMDB. In the search box, it provided search results based 
 on the keys you typed. I did a bit of researched and tried to understand how did it all worked.
 Once I got to know its working, it just had to be put under a wrapper and run my collection against the search results.
+
+I have only uploaded the wrapper. I will soon upload another file, that would go through your collection and create folders, update files names etc. 
