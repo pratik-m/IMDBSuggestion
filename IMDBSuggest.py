@@ -72,6 +72,7 @@ class IMDBSuggestion(object):
 			Returns:
 				Array of IMDBSearchResult objects if found else []
 		"""
+		# Put all guard clauses at the beginning 
 
 		#IMDB instant suggestion only works with All or Title
 		#this will be the part of the URL
